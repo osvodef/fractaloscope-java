@@ -1,7 +1,7 @@
 Fractaloscope
 =============
 
-Fractaloscope is a simple fractal image viewer written in Java. It is created as a university coursework.
+**Fractaloscope** is a simple fractal image viewer written in Java. It is created as a university coursework.
 
 Several types of fractal images can be generated:
 * [Koch](http://en.wikipedia.org/wiki/Koch_curve) & [Cesaro](http://mathworld.wolfram.com/CesaroFractal.html) curves with arbitrary angles
